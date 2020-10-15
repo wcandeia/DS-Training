@@ -1,0 +1,118 @@
+Believe Results
+* Uma amostra de bom tamanho, uma amostra representativa e uma metodologia válida são muito
+importantes em uma boa pesquisa. (Quantas pessoas entrevistadas, quem foram e como a pesquisa foi
+conduzida)
+
+BBC Memory Test
+
+* Constructos: não há uma maneira de medir coisas como memória, felicidade, culpa etc.
+(Própria definição e maneira de mensura-los) Ex.: inteligência (teste de QI, notas), esforço (notas, 
+minutos trabalhando na lição de casa), idade (maturidade, sabedoria, anos), fome (deficiência de
+nutrientes no organismos, roncos).
+A descrição de constructo que utilizamos e que permite medi-lo se chama definição operacional.
+
+Definição operacional: quando escolhemos uma forma de medição. Assim conseguimos medir
+constructos no mundo real.
+No estudo da BBC a definição operacional de boa memória é quando uma porcentagem de rostos
+reconhecidos e corretamente localizados é mais alta.
+Uma forma de transformar constructos em variáveis que podem ser medidas;
+Uma forma de descrever uma variável em termos onde se possa medi-la.
+
+Control for time of the day
+Quando mais fatores são mantidos constantes, o teste é mais confiável, pois as condições são as
+mesmas para todos que participaram. Tem de pensar nos fatores externos que podem influenciar
+os resultados. Fatores externos ou variáveis camufladas.
+
+Same Scores
+Dentro da população há amostra (s).
+Média do resultado de memória de uma população é chamada de parâmetro da população, representada
+pelo mícron (mu).
+A média da amostra se chama estatística da amostra, representada por um x barra.
+A diferença entre os dois se chama erro de amostragem (mu - xbarra).
+Tamanho da amostra -> n.
+
+Visualize Relationship
+Variável independente ou preditora - eixo x (Ex.: horas de sono)
+Variável dependente ou resultado (outcome) - eixo y (Ex.: Pontuação da memória temporal)
+* Em um experimento, o pesquisador manipula a variávei independente, mede alterações na variável dependente,
+e tenta controlar as variáveis externas (lurking variables).
+
+True or Not
+* Correlação não prova causa.
+Duas variáveis relacionadas não implica que uma causa a ocorrência da outra.
+
+Causal Inference
+1. Representar relações com gráficos de dispersão -> Estudos observacionais ou questionários
+2. Mostrar causalidade (uma variável em particular implica em outra) -> experimento controlado
+Em "2" podemos tirar conclusões causais sobre o experimento.
+
+Benefits of surveys
+Questionários:
+* Facilitam obter informações de uma população;
+* São mais fáceis que um experimento controlado;
+* Relativamente baratos (mas tem tempo de implementação e resposta das questões);
+* Podem ser conduzidos a distância;
+* Qualquer um pode analisar os resultados e se assim for, os resultados são atemporais.
+-> Termo: Education longitudinal study; National Center for Education Statistics
+-> Ver fatores que influenciam o esforço (effort[construct]): quanto alunos gostam/valorizam escola, relação com professores,
+gênero etc.
+
+Questionários são passíveis de problemas, como qualquer pesquisa:
+* Não podemos ter certeza de que as respostas são verdadeiras;
+* Respostas podem ser tendenciosas (bias/viés);
+* Quando a pergunta não é entendida temos o viés de resposta (response bias);
+* Algumas pessoas podem se recusar a responder (viés de não resposta [non-response bias]) ou não podem responder.
+
+Placebo
+Experimentos controlados no efeito placebo (exemplo do vídeo):
+* Hora em que participantes tomaram o remédio;
+* Local onde dormiram (laboratório de sono);
+* Aparência do remédio (ativo e placebo são iguais).
+-> Gênero e idade não foram controlados. Para minimizar seu impacto: random assignment.
+Atribuição aleatória: em média, os grupos devem ser semelhantes em idade, número de homens e mulheres, 
+hábitos de dormir etc. Amostra grande ajuda na escolha aleatória.
+-> Estudos observacionais e experimentais.
+-> Random Assignment: Sleeping may be more important than studying.
+
+PS1:
+Remember, a parameter is a characteristic of a population, while a statistic is a characteristic of a sample.
+
+A constant is a something in your experiment that does not change. 
+For example, if you test people's memory, and you make sure that everyone takes the test at the same time of day,
+then time of day is a constant in your experiment.
+A number that describes your population would be something like the average score of each person on the memory test.
+É o parametro.
+
+It's often too expensive to collect data about an entire population, so we try to learn about the population using a sample.
+We do this by estimate population parameters using sample statistics. However, we can't expect our estimates to be exactly
+accurate when we do this.
+
+A variable is a value that may change or differ between individuals in an experiment.
+The number of seconds in a minute does not change, so it is called a constant.
+
+In this case, the sample statistic is the average hours per week spent online found in the sample,
+and the population parameter is the true value for the population.
+Usando distribuição aleatória (n=100), pesquisadores encontraram média dos residentes dos EUA online:
+32h/semana. Imagine o valor real da população seja 25h/semana. Assertivas:
+* A amostra é 32 e o parâmetro da população é 25.
+* A diferença entre 32 e 25 é chamada erro de amostragem.
+* Não se deve ficar surpreso que a média da amostra é diferente da média da população.
+* A quantidade do erro de amostragem nesse exemplo é 7h/semana (32 - 25).
+* xbarra=32 e mu=25.
+* A amostra possui 100 residentes nos EUA.
+* Devemos encontrar uma média da amostra próxima da média da população se utilizarmos uma amostra maior (ex.: n=1000).
+
+Non-response bias is a problem in many surveys, and you should be especially concerned about it if your survey has
+a particularly low response rate.
+
+The independent variable is whatever differed between the experiment group and control group.
+Note that while the operational definition of quality of sleep is the 10-point scale, the way we actually measure success 
+comes from the difference in quality between groups.
+In an experimental study, unlike an observational study, it is valid to make causal conclusions since randomization 
+minimizes the effect of lurking variables.
+
+Statements about the relationships between variables: hypotheses.
+
+Predictor variable is also acceptable, though that term tends to be used when we are talking about a factor that 
+we do not manipulate, but may help our predictions.
+

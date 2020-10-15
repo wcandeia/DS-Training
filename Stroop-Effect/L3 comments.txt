@@ -1,0 +1,102 @@
+Lesson 3: Central Tendency
+
+Moda: o valor (ou intervalo/range) onde a frequência é maior.
+Algumas distribuições (como a uniforme) não têm moda.
+No entanto, algumas distribuições têm várias modas.
+
+Although there is one value for which there is a maximum frequency, 
+in terms of describing the 'modality' of a distribution, we want to consider 
+the number of local peaks.
+
+Mode of categorical data
+The data doesn't need to be numeric to find a mode: we can also compute the mode for 
+categorical data as well! On the next slide, you'll be asked to find the mode of a 
+categorical data set: the preferred M&M flavor of 8,000 Udacity students.
+Remember, the mode occurs on the X-axis, so you are looking for whatever value has the highest frequency.
+
+The numbers 7,000 and 1,000 are the actual frequencies. The mode, itself, is "Plain."
+
+A moda pode ser usada para descrever qualquer tipo de dado. Numérico ou categórico.
+Nem todos os pontos do conjunto de dados necessariamente afetam a moda.
+Se pegarmos várias amostras da mesma população, a moda não será a mesma em cada amostra.
+Não há como descrever a moda com uma equação (por isso usamos a média). 
+Você observa os valores dos dados, vê qual acontece com maior frequência ou 
+observa o histograma e vê qual compartimento (bin) tem a maior frequência.
+* Não é afetada por outliers.
+* Para distribuição normal é semelhante a mediana e média.
+* Pode ser utilizada para descrever dados categóricos, tipo gênero ou país de origem.
+* É o ponto mais frequente.
+
+Diferente da moda, a média considera todos os valores. xbarra = mean (média).
+
+Propriedades da média:
+* Todos os pontos da distribuição afetam a média;
+* Pode ser descrita como uma fórmula: xbarra = sum(x)/n (amostra) e mu = sum(x)/N (população);
+* Muitas amostras da mesma população terão médias parecidas;
+* A média de uma amostra pode ser utilizada para inferir informações sobre a população apresentada.
+* Para distribuição normal é semelhante a mediana e moda.
+
+UNC
+The median is the "middle" of the data; meaning half of the data values are less than the median, and half are greater.
+Here's an interesting article that illustrates the importance of knowing when and how to use the median versus the mean. It's about the cost of weddings and how the average wedding cost is not a good descriptor of how much the typical couple spends.
+The wedding industry's pricey little secret, June 12, 2013
+
+Mediana
+* Organizar do menor para o maior ou do maior para o menor.
+Sequências ímpares, a mediana é o ponto do meio.
+Sequências pares, a mediana é a média dos pontos do meio.
+*É o ponto do meio exato em uma distribuição (metade dos dados é menor que a 
+mediana, metade maior).
+* Não é afetada por outliers.
+* Para distribuição normal é semelhante a média e moda. 
+Média, mediana e moda: medidas de centro (descrevem o centro da distribuição).
+A mediana é a melhor medida da tendência central quando lidamos com distribuições
+altamente enviesadas.
+
+Quiz: Order Measures of Center 1
+moda < mediana < média (Distribuição enviesada positiva)
+Em uma distribuição enviesada positiva com mediana 50 por exemplo:
+* A média é maior que 50;
+* A moda é menor que 50;
+* A mediana é maior que a moda mas menor que a média.
+
+média == mediana == moda (Distribuição Normal)
+
+Medidas de centro podem ser utilizadas para decisões e para comparações.
+
+Fórmula para a mediana:
+n par: ( x sub(n/2) + x sub(n/2)+1 )/2
+n = 4:  .	.	.	.
+rank	1	2	3	4
+valor	x1	x2	x3	x4
+
+n ímpar: x sub(n+1)/2
+n = 5:  .	.	.	.	.
+rank	1	2	3	4	5
+valor	x1	x2	x3	x4	x5
+
+QUIZZ
+Possui equação simples: média (soma/n);
+Sempre muda se qualquer valor muda: média;
+Não é afetada por mudanças no tamanho do compartimento: média, mediana;
+É afetada por outliers: mediana, moda;
+Fácil de encontrar no histograma: moda.
+
+** In a introductory statistics course, the same number of students scored below 75% as 
+above 75% on final the final exam. What shape (s) could the distribution of final
+exam scores have? Check all that apply.
+R.: This is another way of saying that 75% was the median score on the exam. 
+All of these distributions can have a median of 75%.
+* Uniforme, Normal, Bimoda, Positiva e negativa (skewed).
+
+If you add up the frequencies, you'll see that the first three bars have less than half 
+of the values, but the first four bars have more than half. That means the median 
+should be somewhere in the middle of the fourth bar, greater than 25 and less than 30.
+(Rever o Quiz 24 "Median Given Histogram")
+
+43 is the median of the frequencies, but it's not the median of the values.
+For the median of the values, if you sum up all the frequencies below the median, 
+and all the frequencies above the median, you should get the same number.
+
+If you sum up all the frequencies below the median, and all the frequencies above 
+the median, you should get the same number. (para 201 p. ex.)

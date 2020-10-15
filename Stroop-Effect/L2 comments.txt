@@ -1,0 +1,45 @@
+L2 - Visualização
+
+Tabela de frequência: descrever dados, achar padrões e tomar decisões.
+Dados organizados de modo coerente. Dados absolutos.
+
+Frequência relativa: o quanto do todo eles ocupam. Soma = 100.
+
+País |	Frequência | Frequência Relativa		| Porcentagem
+CAN		2				2/50 = 0.04 (proporção)		 4%
+CHI		12				12/50= 0.24					24%
+ENG		2				2/50 = 0.04					 4%
+GER		3				3/50 = 0.06					 6%
+IND		8				8/50 = 0.16					16%
+JAP		8				8/50 = 0.16					16%
+MEX		3				3/50 = 0.06					 6%
+PAK		1				1/50 = 0.02					 2%
+SWE		1				1/50 = 0.02					 2%
+USA		10				10/50= 0.20					20%
+-------------------------------------------------------------
+Total:	50					 = 1.00				   100%
+
+Todas as proporções são 0 <= proporção <= 1 ou 0% <= porcentagem <= 100%.
+Soma de frequências relativas = 1.
+
+Histograma: frequência no eixo y e variável eixo x. Ex.: frequência (y) vs idade (x)
+Variável em x é numérica e quantitativa, diferente do gráfico de barras onde a variável
+é categórica e qualitativa.
+
+PS 2a
+
+Tipo sanguíneo	|	f	|	p	|	%
+O					16		.46		46		Mais comum
+A					13		.37		37
+B					 4		.11		11
+AB					 2		.06		 6		Mais raro
+Sigma				35		1		100
+
+Cálculo do tamanho do intervalo (bin size): 105 - 15 = 90. This is 10 bins of size 9 between 15 and 105.
+Frequency is on the y-axis; countries and colors are categorical data. With histograms, the x-axis should be numerical.
+With frequency tables, we have exact counts, so we can always create the histogram. But not the opposite way around.
+Frequency table: is better for calculating n.
+Histograma: good for visualizing the shape of a distribution; can always be created if you have the other (table/histogram).
+Frequency table: good for calculating the total number in the sample/population.
+With tables, you can add the frequencies in each bin. With a histogram, you don't always know the exact frequencies.
+A histogram lets you visually see the shape of a distribution (of data).

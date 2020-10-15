@@ -1,0 +1,30 @@
+Lesson 4: Variability
+
+Range is the difference between the maximum value and the minimum value observed.
+Às vezes as variações mudam quando adicionamos novos dados ao conjunto.
+Outlier (exceção): aumenta significativamente a variação dos nossos dados.
+Em geral aumentam a variabilidade.
+
+Quiz: Where Is Q1?
+The first quartile is the point where 25% of the distribution is below that point, and 75% of the data is above that point.
+Quiz Q3 - Q1 -> Refazer.
+
+Interquartile range: cerca de 50% dos dados estaõ no IQR;
+					 IQR não é afetado por cada valor do conjunto de dados;
+					 IQR não é afetado por outliers.
+					 
+Um valor é considerado um outlier se é menor que Q1 - 1,5 multiplicado pela amplitude 
+do interquartil. Ou se é maior que o Q3 + 1,5, multiplicado pela amplitude do interquartil.
+Outlier < Q1 - 1,5 * (IQR)
+Outlier > Q3 + 1,5 * (IQR)
+
+Variância
+* Média dos desvios quadráticos
+* Soma de desvios quadráticos dividida por n
+
+Quiz One Dimension <- Revisar
+
+SD in Words <- Revisar
+Como traduzir o desvio padrão em palavras?
+* Raiz quadrada do desvio quadrático médio;
+* Raiz quadrada da (soma dos desvios quadráticos dividida por n).
